@@ -61,6 +61,18 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Almeronumerouno&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Almeronumerouno&label=Profile%20Views&color=F5A623&style=for-the-badge" />
+
+</div>
+
 <br/>
 
 ## Contribution Graph
