@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Almer+%F0%9F%91%8B;Fullstack+Developer;CS+Student+%40+UMN;Building+AI-powered+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Almer;Fullstack+Developer;CS+Student+%40+UMN;Building+AI-powered+systems" alt="Typing SVG" />
 
 </div>
 
@@ -11,17 +11,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 Computer Science student at **Universitas Multimedia Nusantara (UMN)**, Tangerang
-- 💼 Completed an internship at **Diskominfo Kota Tangerang**, building a Helpdesk TIK platform and an AI-powered chatbot system
-- 🤖 Deep into **AI/LLM integration** — n8n workflows, RAG pipelines, and agentic automation
-- 📈 Currently building a **Telegram bot for IDX/BEI swing trading signals**
-- 🌱 Always exploring new tools — from CLI coding agents to local LLM inference
+- Computer Science student at **Universitas Multimedia Nusantara (UMN)**, Tangerang
+- Completed an internship at **Diskominfo Kota Tangerang**, building a Helpdesk TIK platform and an AI-powered chatbot system
+- Focused on AI/LLM integration: n8n workflows, RAG pipelines, and agentic automation
+- Currently building a Telegram bot for IDX/BEI swing trading signals
+- Always exploring new tools, from CLI coding agents to local LLM inference
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 <p>
@@ -50,7 +50,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   <picture>
@@ -62,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Almeronumerouno&show_icons=true&theme=dark&hide_border=true&bg_color=1E2A3A&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" />
@@ -75,12 +75,12 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p>
   <a href="https://github.com/Almeronumerouno"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/Almeronumerouno">Almeronumerouno</a></sub>
+  <sub>From <a href="https://github.com/Almeronumerouno">Almeronumerouno</a></sub>
 </div>
