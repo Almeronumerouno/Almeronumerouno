@@ -50,18 +50,6 @@
 
 ---
 
-### Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Almeronumerouno/Almeronumerouno/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Almeronumerouno/Almeronumerouno/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Almeronumerouno/Almeronumerouno/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -71,6 +59,16 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Almeronumerouno&theme=dark&hide_border=true&background=1E2A3A&stroke=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Almeronumerouno/Almeronumerouno/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Almeronumerouno/Almeronumerouno/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Almeronumerouno/Almeronumerouno/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
