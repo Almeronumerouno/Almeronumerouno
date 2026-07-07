@@ -51,12 +51,6 @@
 ---
 
 ### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Almeronumerouno&show_icons=true&theme=dark&hide_border=true&bg_color=1E2A3A&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeronumerouno&layout=compact&theme=dark&hide_border=true&bg_color=1E2A3A&title_color=F5A623&text_color=C9D1D9" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Almeronumerouno&theme=dark&hide_border=true&background=1E2A3A&stroke=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" />
 </div>
