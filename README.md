@@ -63,7 +63,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Almeronumerouno&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+<img src="https://img.shields.io/github/followers/Almeronumerouno?label=Followers&style=for-the-badge&color=1E2A3A&labelColor=1E2A3A&logoColor=F5A623" />
+<img src="https://img.shields.io/github/stars/Almeronumerouno?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=1E2A3A&labelColor=1E2A3A&label=Stars" />
 
 </div>
 
